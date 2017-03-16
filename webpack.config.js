@@ -1,5 +1,10 @@
 var path = require('path')
 var webpack = require('webpack')
+var CopyWebpackPlugin = require('copy-webpack-plugin')
+
+function masterFullPath(dir) {
+  return 'C:\\Users\\alexandre\\Desktop\\Alexandre Magno\\Dev\\amagno.github.io\\master\\' + (dir || '')
+} 
 
 module.exports = {
   entry: './src/main.js',
@@ -29,7 +34,7 @@ module.exports = {
       {
         test: /\.js$/,
         loader: 'babel-loader',
-        exclude: /node_modules/
+        exclude: /node_modules/,
       },
       {
         test: /\.(png|jpg|gif|svg)$/,
@@ -72,6 +77,17 @@ if (process.env.NODE_ENV === 'production') {
     }),
     new webpack.LoaderOptionsPlugin({
       minimize: true
-    })
+    }),
+    new webpack.optimize.OccurrenceOrderPlugin(),
+    new CopyWebpackPlugin([
+      { from: 'css/*' ,    to: masterFullPath() },
+      { from: 'fonts/*' ,  to: masterFullPath() },
+      { from: 'build.js' , to: masterFullPath() },
+      { from: '*.html' ,   to: masterFullPath() },
+      { from: '*.txt' ,    to: masterFullPath() },
+      { from: '*.png' ,    to: masterFullPath() },
+      { from: '*.ico' ,    to: masterFullPath() }
+    ])
   ])
+
 }
