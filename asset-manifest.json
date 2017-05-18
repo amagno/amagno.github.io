@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.abc12513.css",
-  "main.css.map": "static/css/main.abc12513.css.map",
-  "main.js": "static/js/main.2e6fd722.js",
-  "main.js.map": "static/js/main.2e6fd722.js.map",
+  "main.css": "static/css/main.fd01ce99.css",
+  "main.css.map": "static/css/main.fd01ce99.css.map",
+  "main.js": "static/js/main.70aba21c.js",
+  "main.js.map": "static/js/main.70aba21c.js.map",
   "static\\media\\02-setup-git-standard.png": "static/media/02-setup-git-standard.7ba5e97b.png",
   "static\\media\\20131108-PIVOTAL-231edit1.jpg": "static/media/20131108-PIVOTAL-231edit1.7070753e.jpg",
   "static\\media\\542px-Equipe_F.svg.png": "static/media/542px-Equipe_F.svg.986b9ef2.png",
@@ -17,7 +17,6 @@
   "static\\media\\basic-remote-workflow.png": "static/media/basic-remote-workflow.138a68bd.png",
   "static\\media\\big-class-diagram-without-beans1.png": "static/media/big-class-diagram-without-beans1.a9786fb0.png",
   "static\\media\\commit.png": "static/media/commit.ed3d2ee5.png",
-  "static\\media\\cover-deploy-to-github-pages.png": "static/media/cover-deploy-to-github-pages.a2cc9a03.png",
   "static\\media\\crazy-work-guy-o.gif": "static/media/crazy-work-guy-o.33db5cbf.gif",
   "static\\media\\fontawesome-webfont.eot?v=4.7.0": "static/media/fontawesome-webfont.674f50d2.eot",
   "static\\media\\fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
@@ -41,6 +40,7 @@
   "static\\media\\logo.svg": "static/media/logo.5d5d9eef.svg",
   "static\\media\\maxresdefault.jpg": "static/media/maxresdefault.fe8dc5e2.jpg",
   "static\\media\\newrepository.png": "static/media/newrepository.c614cd72.png",
+  "static\\media\\oodo.png": "static/media/oodo.1e0ca9b6.png",
   "static\\media\\reactblog.png": "static/media/reactblog.da49cf87.png",
   "static\\media\\repositorios.png": "static/media/repositorios.55e0139f.png"
 }
