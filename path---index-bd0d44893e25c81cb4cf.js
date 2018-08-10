@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{659:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Amagno Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"Esta palestra tem como objetivo explicar como funciona o Sistemas de controle de versão abordando, Git e Github e sua utilidade no dia a dia…",fields:{slug:"/talks-git-github/"},frontmatter:{date:"18 May, 2017",title:"Palestra Git e Github"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-bd0d44893e25c81cb4cf.js.map
