@@ -1,0 +1,2 @@
+webpackJsonp([0x83323ebd9d39],{500:function(e,t,l){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var u=l(1),a=n(u),r=function(){return a.default.createElement("div",null,a.default.createElement("h4",null,"Alexandre Magno Monteiro"),a.default.createElement("blockquote",null,"Desenvolvedor..."),a.default.createElement("p",null,"React, Angular, NodeJS, C#, JavaScript, .NET Core"))};t.default=r,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-about-jsx-20dae241631ba2feb69b.js.map

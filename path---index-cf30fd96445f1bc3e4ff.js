@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{659:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Alexandre Magno Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"Esta palestra tem como objetivo explicar como funciona o Sistemas de controle de versão abordando, Git e Github e sua utilidade no dia a dia…",fields:{slug:"/talks-git-github/"},frontmatter:{date:"18 May, 2017",title:"Palestra Git e Github"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-cf30fd96445f1bc3e4ff.js.map
