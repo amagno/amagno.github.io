@@ -1,8 +1,12 @@
 {
   "assetsByChunkName": {
+    "path---teste": [
+      "path---teste-015c4ced2f71ccbbfb9e.js",
+      "path---teste-015c4ced2f71ccbbfb9e.js.map"
+    ],
     "component---src-pages-talks-git-github-presentation-jsx": [
-      "component---src-pages-talks-git-github-presentation-jsx-f0e2d21acbe9ec89dae7.js",
-      "component---src-pages-talks-git-github-presentation-jsx-f0e2d21acbe9ec89dae7.js.map"
+      "component---src-pages-talks-git-github-presentation-jsx-ac48ef10d42068d1eca7.js",
+      "component---src-pages-talks-git-github-presentation-jsx-ac48ef10d42068d1eca7.js.map"
     ],
     "component---src-pages-contact-jsx": [
       "component---src-pages-contact-jsx-6be7dd366d3c0ea3bbe3.js",
@@ -13,33 +17,33 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-abc48dbae3f92f159e7e.js",
-      "component---src-layouts-index-jsx-abc48dbae3f92f159e7e.js.map"
+      "component---src-layouts-index-jsx-acccca96df0671ed99a5.js",
+      "component---src-layouts-index-jsx-acccca96df0671ed99a5.js.map"
     ],
     "path---talks-git-github": [
-      "path---talks-git-github-019e84aa8b28ce7e68c7.js",
-      "path---talks-git-github-019e84aa8b28ce7e68c7.js.map"
+      "path---talks-git-github-d24358ef5250805ae3ee.js",
+      "path---talks-git-github-d24358ef5250805ae3ee.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-70064a08b9bf6255f679.js",
-      "component---src-templates-blog-post-js-70064a08b9bf6255f679.js.map"
+      "component---src-templates-blog-post-js-039359acd8d899414edf.js",
+      "component---src-templates-blog-post-js-039359acd8d899414edf.js.map"
     ],
     "path---index": [
-      "path---index-cf30fd96445f1bc3e4ff.js",
-      "path---index-cf30fd96445f1bc3e4ff.js.map"
+      "path---index-f6df416b06c3b24d7150.js",
+      "path---index-f6df416b06c3b24d7150.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-20dae241631ba2feb69b.js",
       "component---src-pages-about-jsx-20dae241631ba2feb69b.js.map"
     ],
     "commons": [
-      "commons-df03f19441d507bce71c.js",
+      "commons-76b563b7b15669624f8b.js",
       "build-js-styles.css",
-      "commons-df03f19441d507bce71c.js.map",
+      "commons-76b563b7b15669624f8b.js.map",
       "build-js-styles.css.map"
     ],
     "path---contact": [
@@ -55,13 +59,13 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-afb61730e7dcf0c2acb6.js",
-      "component---src-pages-index-jsx-afb61730e7dcf0c2acb6.js.map"
+      "component---src-pages-index-jsx-9c4b965b6b7d9bf8e5df.js",
+      "component---src-pages-index-jsx-9c4b965b6b7d9bf8e5df.js.map"
     ],
     "app": [
-      "app-aa82c882cd5d4abafa23.js",
+      "app-7073638c1192e68abec8.js",
       "build-js-styles.css",
-      "app-aa82c882cd5d4abafa23.js.map",
+      "app-7073638c1192e68abec8.js.map",
       "build-js-styles.css.map"
     ],
     "path---about": [
